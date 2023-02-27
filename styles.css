@@ -1,20 +1,17 @@
-table,th,tr,td{
-	border: 1px solid black;
-}
 
-.Data1{
+table, tr, th, td{
+	border:1px solid black;
+}
+.data1{
 	width:330px;
 	height:200px;
 }
-
-.Row1{
-	text-align:center
+.data2{
+	height:100px;
 }
-
-.tab1{
+table1{
 	width:330px;
 }
-
-.Data2{
-	height:100px;
+.row1{
+	text-align:center;
 }
